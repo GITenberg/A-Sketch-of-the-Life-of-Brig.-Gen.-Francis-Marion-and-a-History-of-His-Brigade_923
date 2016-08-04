@@ -1,0 +1,32 @@
+_repo: A-Sketch-of-the-Life-of-Brig.-Gen.-Francis-Marion-and-a-History-of-His-Brigade_923
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, William Dobein
+    birthdate: 1764
+    deathdate: 1830
+    gutenberg_agent_id: '475'
+    url: http://www.gutenberg.org/2009/agents/475
+description: ''
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcsh 'Marion, Francis, 1732-1795 -- Correspondence'
+- !lcsh 'Swamp Fox'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcc 'E201'
+- !lcsh 'South Carolina -- Militia -- Biography'
+- !lcsh 'Marion, Francis, 1732-1795'
+- !lcsh 'Greene, Nathanael, 1742-1786 -- Correspondence'
+- !lcsh 'South Carolina -- History -- Revolution, 1775-1783'
+- !lcsh 'United States. Continental Army -- Biography'
+- GITenberg
+title: A Sketch of the Life of Brig. Gen. Francis Marion and a History of His Brigade
+url: http://www.gutenberg.org/ebooks/923
